@@ -1,6 +1,7 @@
 # hello-world
-Esse projeto para atender a atividade MAPA - ESOFT - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II - 54_2024
+Esse projeto foi criado para atender a atividade MAPA - ESOFT - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II - 54_2024
 
+Meu nome é Christiane Machado Ribeiro, sou acadêmica da Unicesumar, e abaixo segue um resumo da minha experiência profissional:
 - Acadêmica em Engenharia de Software.
 - MBA em Marketing, Inovação e Criatividade.
 - Tecnóloga em Processos Gerenciais.
